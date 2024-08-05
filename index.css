@@ -10,6 +10,7 @@ body, html {
     align-items: center;
     justify-content: center;
     display: flex;
+    height: 10%;
 
 }
 .navbar a {
@@ -113,4 +114,5 @@ body, html {
 }
 .experienceContainer h1 {
     position: absolute;
+    top: 152.5%;
 }
