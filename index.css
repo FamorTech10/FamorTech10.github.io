@@ -82,7 +82,8 @@ body, html {
 }
 
 .centerContainer img {
-    width: 100%;
+    width: 75%;
+    height: 75%;
 }
 
 .centertextcontainer {
@@ -111,6 +112,9 @@ body, html {
     height: 80%;
     align-items: center;
     justify-content: center;
+}
+.experienceContainer h2{
+    text-align: center;
 }
 .experienceContainer h1 {
     position: absolute;
