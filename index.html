@@ -5,88 +5,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Famorblox Portfolio</title>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
-    <style>
-        body, html {
-            margin: 0;
-            padding: 0;
-            font-family: 'Roboto', sans-serif;
-            height: 100%;
-            overflow: hidden;
-        }
-        .container {
-            height: 80%;
-            width: 100%;
-            background: url('portada.png') no-repeat center center/cover;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: white;
-        }
-        .navbar {
-            position: absolute;
-            top: 0;
-            width: 100%;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            background: rgba(0, 0, 0, 0);
-        }
-        .navbar a {
-            color: rgb(255, 255, 255);
-            text-decoration: none;
-            margin: 0 15px;
-            font-weight: 700;
-        }
-        .navbar h1 {
-            color: rgb(255, 255, 255);
-
-        }
-        .title {
-            color: rgb(255, 255, 255);
-
-            text-align: center;
-            font-size: 48px;
-            font-weight: 700;
-        }
-        .button-group {
-            margin-top: 20px;
-            text-align: center;
-        }
-        .button {
-            padding: 15px 30px;
-            background-color: #05ad4b;
-            border: none;
-            color: white;
-            font-size: 18px;
-            cursor: pointer;
-            margin: 0 10px;
-            border-radius: 5px;
-            transition: background-color 0.3s ease;
-        }
-        .button:hover {
-            background-color: #048138;
-        }
-        .navbardiv {
-            text-align: center;
-        }
-        .logo {
-            padding: 20px;
-        }
-    </style>
+    <link rel="stylesheet" href= "index.css">
 </head>
+
 <body>
-    <div class="navbar">
+    <div class = "navbar">
         <div class="logo">
             <h1>FAMORBLOX PORTFOLIO</h1>
         </div>
         <div class = "navbardiv">
-            <a href="#">ABOUT ME</a>
+            <a href="#AboutMe">ABOUT ME</a>
             <a href="#">EXPERIENCE</a>
             <a href="#">CONTACT</a>
         </div>
-        
     </div>
-    <div class="container">
+
+    <div class = "topContainer">
         <div class="content">
             <h1 class="title">Full Stack Programmer With 4 Years of Experience</h1>
             <div class="button-group">
@@ -94,8 +28,37 @@
             </div>
         </div>
     </div>
-    <div class="content">
-        <h1 class="title">Experience</h1>
+    <br>
+    <div class = "centerContainer" id = "AboutMe">
+        <div class="doublecontainer">
+            <img src="capybaracircle.png" alt="">
+        </div>
+        <div class="doublecontainer">
+            <div class = "centertextcontainer">
+                <h1 class="title">Hello Im Famorblox!</h1>
+                <p>Im a Full Stack programmer developing experiences on Roblox.
+                    I've contributed to big and small experiences since 2020 in many genres like Shooters,
+                    Simulators, Obby, Vehicles, Physics, etc.
+                </p>
+            </div>
+        </div>
     </div>
+
+    <br>
+
+    <div class="experienceContainer">
+        <h1 class="title">Experience</h1>
+        
+        <div class = "trippleContainer">
+
+        </div>
+        <div class = "trippleContainer">
+            
+        </div>
+        <div class = "trippleContainer">
+            
+        </div>
+    </div>
+    
 </body>
 </html>

@@ -1,0 +1,116 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    height: 100%;
+}
+
+.navbar {
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+.navbar a {
+    color: rgb(0,0,0);
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: 700;
+}
+.navbar h1 {
+    left: 0px;
+    color: rgb(0,0,0);
+    position: abs;
+}
+.logo {
+    width: 65%;
+}
+
+.topContainer {
+    width: 100%;
+    height: 70%;
+    display: flex;
+    background: url('portada.png') no-repeat center center/cover;
+    align-items: center;
+    justify-content: center;
+    color:white;
+}
+
+.title {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+}
+.button-group {
+    margin-top: 20px;
+    text-align: center;
+}
+.button {
+    padding: 15px 30px;
+    background-color: #05ad4b;
+    border: none;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+    margin: 0 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+.button:hover {
+    background-color: #048138;
+}
+
+.centerContainer {
+    width: 100%;
+    height: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.doublecontainer {
+    width: 50%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.centerContainer div p {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.centerContainer img {
+    width: 100%;
+}
+
+.centertextcontainer {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.experienceContainer {
+    background-color: beige;
+    width: 100%;
+    height: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.trippleContainer {
+    background-color: white;
+    width: 28%;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    height: 80%;
+    align-items: center;
+    justify-content: center;
+}
+.experienceContainer h1 {
+    position: absolute;
+}
