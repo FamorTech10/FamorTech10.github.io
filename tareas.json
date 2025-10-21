@@ -1,24 +1,17 @@
 {
   "tareas": [
     {
-      "titulo": "Mi tarea de matemáticas",
-      "descripcion": "Resolver ejercicios 1-10 del libro.",
+      "titulo": "Titulo Titulo",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec placerat nibh. In vestibulum convallis est at euismod. Duis posuere urna non imperdiet imperdiet. Etiam luctus mauris augue, ut gravida mi eleifend ut. Morbi bibendum ultrices diam, et consequat orci pretium ut. Donec lectus ante, dapibus non metus sed, pellentesque auctor magna. Ut non ex fermentum, imperdiet nisi eu, placerat purus. Mauris sapien magna, vehicula venenatis varius vel, elementum ut est. Integer vel ex in magna scelerisque malesuada. Quisque finibus dui turpis.",
       "imagenes": [
-        "img/tarea1.jpg",
-        "img/tarea4.jpg"
-      ],
-      "archivo": "https://famortech.com/reportes/resume.pdf"
+      ]
     },
     {
-      "titulo": "Presentación de historia",
-      "descripcion": "Hacer diapositivas sobre culturas prehispánicas.",
+      "titulo": "Titulo Titulo",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec placerat nibh. In vestibulum convallis est at euismod. Duis posuere urna non imperdiet imperdiet. Etiam luctus mauris augue, ut gravida mi eleifend ut. Morbi bibendum ultrices diam, et consequat orci pretium ut. Donec lectus ante, dapibus non metus sed, pellentesque auctor magna. Ut non ex fermentum, imperdiet nisi eu, placerat purus. Mauris sapien magna, vehicula venenatis varius vel, elementum ut est. Integer vel ex in magna scelerisque malesuada. Quisque finibus dui turpis.",
       "imagenes": [
-        "img/tarea1.jpg",
-        "img/tarea4.jpg"
-      ],
-      "archivo": "https://famortech.com/reportes/resume.pdf"
+      ]
     }
   ]
 }
-
 
