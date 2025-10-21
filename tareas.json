@@ -1,0 +1,24 @@
+{
+  "tareas": [
+    {
+      "titulo": "Mi tarea de matemáticas",
+      "descripcion": "Resolver ejercicios 1-10 del libro.",
+      "imagenes": [
+        "img/tarea1.jpg",
+        "img/tarea4.jpg"
+      ],
+      "archivo": "https://famortech.com/reportes/resume.pdf"
+    },
+    {
+      "titulo": "Presentación de historia",
+      "descripcion": "Hacer diapositivas sobre culturas prehispánicas.",
+      "imagenes": [
+        "img/tarea1.jpg",
+        "img/tarea4.jpg"
+      ],
+      "archivo": "https://famortech.com/reportes/resume.pdf"
+    }
+  ]
+}
+
+
